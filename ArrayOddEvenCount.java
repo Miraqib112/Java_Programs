@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class OddEvenCount {
+public class ArrayOddEvenCount {
     static int odd=0,even=0;
     public static void main(String[] args) {
         int[] array=new int[10];
