@@ -1,4 +1,4 @@
-
+package mypackage;
 class Vehicle{
     void feature(){
         System.out.println("Vehicles can travel");
